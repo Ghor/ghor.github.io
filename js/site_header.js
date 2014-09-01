@@ -1,11 +1,13 @@
-document.write( '<title>Ghor</title>' )
+document.write( '<title>Jeffrey Hunt</title>' )
 document.write( '<link href="css/styles.css" rel="stylesheet">' )
 
 var pages = [
 {"name":"Home","url":"index.html"},
+{"name":"About","url":"about.html"},
 {"name":"Games","url":"games.html"},
 {"name":"Code Samples","url":"code_samples.html"},
 {"name":"Contact","url":"contact.html"}
+
 ]
 
 function CreateChildElementWithAttributes( parent, tag, attributes )
@@ -25,7 +27,7 @@ function SiteHeaderController( page_name )
 		node.setAttribute( "class", "navbar navbar-default" );
 		
 		var header_node = CreateChildElementWithAttributes( node, "div", { "class":"site_header"} );
-			header_node.innerHTML = "<h1>Ghor</h1>"; //<h1>Ghor <small>this is a website</small></h1>
+			header_node.innerHTML = "<h1>Jeffrey Hunt</h1>"; //<h1>Ghor <small>this is a website</small></h1>
 			
 		var nav_container_node = document.createElement( "div" );
 			nav_container_node.setAttribute("style","margin:8px");
