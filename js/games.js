@@ -126,7 +126,7 @@ gameinfo_ninjarun = {
 		{
 			"icon": "images/unity_16x16.png",
 			"text": "Play in Browser",
-			"url":"https://dl.dropboxusercontent.com/u/38238241/Ninja/web/web.html",
+			"url":"games/Ninja/web.html",
 			"additional_classes" : "game-linkbutton-primary"
 		}
 	],
@@ -145,7 +145,7 @@ gameinfo_bc3d = {
 		{
 			"icon": "images/unity_16x16.png",
 			"text": "Play in Browser",
-			"url":"https://dl.dropboxusercontent.com/u/38238241/bc3d/web/web.html",
+			"url":"games/bc3d/web.html",
 			"additional_classes" : "game-linkbutton-primary"
 		}
 	],
