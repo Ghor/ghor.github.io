@@ -25,6 +25,7 @@ body {
 	margin-bottom: 8px;
 	margin-left: 16px;
 	display: block;
+    font-family: mako;
 }
 
 .gamecard-envelope
@@ -159,6 +160,28 @@ body {
 	width: 800px;
 	max-width: 95%;
 	padding: 16px 72px 72px 72px;
+}
+
+.page-container-header
+{
+    text-align: center;
+    font-family: 'mako';
+}
+
+.skills-container
+{
+    width:100%;
+    margin: 0px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+.skill-label
+{
+    font-weight: 100;
+    font-size: 100%;
+    padding: 3px 5px;
+    margin: 1px;
 }
 
 .flex-on

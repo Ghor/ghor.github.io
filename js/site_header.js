@@ -1,5 +1,7 @@
-document.write( '<title>Jeffrey Hunt</title>' )
-document.write( '<link href="css/styles.css" rel="stylesheet">' )
+document.write( '<title>Jeffrey Hunt</title>' );
+document.write( "<link href='http://fonts.googleapis.com/css?family=Mako|Ubuntu|Montserrat' rel='stylesheet' type='text/css'>" );
+document.write( '<link href="css/styles.css" rel="stylesheet">' );
+
 
 var pages = [
 {"name":"Home","url":"index.html"},
