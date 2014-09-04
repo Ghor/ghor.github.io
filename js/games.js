@@ -1,7 +1,7 @@
 gameinfo_gmdoom = {
 	"title" : "gmDoom",
 	"icon" : "images/gmDoom_card_icon.jpg",
-	"card_description" : "<b>gmDoom</b> is a powerful mod where engines separated by more than a decade collide to seamlessly bring <b>DOOM II: Hell on Earth</b> to <b>Garry's Mod</b>.",
+	"card_description" : "<b>gmDoom</b> is a powerful mod where engines separated by more than a decade collide to seamlessly bring <b>DOOM II: Hell on Earth</b> to <b>Garry's Mod</b>. Sole creator.",
 	"gallery_images" : [
 		"images/gmDoom_preview.jpg",
 		"images/gm_construct0068.jpg",
@@ -21,17 +21,16 @@ gameinfo_gmdoom = {
 			"icon": "images/youtube_16x16.png",
 			"text": "Release Trailer",
 			"url": "https://www.youtube.com/watch?v=Q2yPfWXPIs0"
-		},
-	],
-	"description" : "<b>gmDoom</b> is a powerful mod where engines separated by more than a decade collide to seamlessly bring <b>DOOM II: Hell on Earth</b> to <b>Garry's Mod</b>."
-}
+		}
+	]
+};
 
 gameinfo_octanewitch = {
 	"title" : "Octane Witch",
 	"icon" : "images/octane_witch_preview.png",
-	"card_description" : "<b>Octane Witch</b> is an isometric hack-and-slash action game made for Game Boy Jam 3. Play as Queen and use her various weapons and magical skills to carve a path through the demons who have conquered her castle and taken her beloved Princess!",
+	"card_description" : "<b>Octane Witch</b> is an isometric hack-and-slash action game made for Game Boy Jam 3. Lead programmer on team of six over the span of 10 days. Project placed 8th out of 247 entries.",
 	"gallery_images" : [
-		"images/octane_witch_preview.png",
+		"images/octane_witch_preview.png"
 	],
 	"tools" : "C#, Unity",
 	"links" : [
@@ -48,109 +47,104 @@ gameinfo_octanewitch = {
 		},
 		{
 			"text": "Gameboy Jam Page",
-			"url":"http://jams.gamejolt.io/gbjam3/games/octane-witch/31749"
+			"url": "http://jams.gamejolt.io/gbjam3/games/octane-witch/31749"
 		}
 		
-	],
-	"description" : "<b>Octane Witch</b> is an isometric hack-and-slash action game made for Game Boy Jam 3. Play as Queen and use her various weapons and magical skills to carve a path through the demons who have conquered her castle and taken her beloved Princess!"
-}
+	]
+};
 
 gameinfo_nauticalamity = {
 	"title" : "Nauticalamity",
 	"icon" : "images/nauticalamity_card_icon.png",
-	"card_description" : "<b>Nauticalamity</b> is a puzzle game developed for Ludum Dare #29 - Beneath the Surface. Drag chains along tiles from highest to lowest value to destroy incoming tiles before they overflow the board.",
+	"card_description" : "<b>Nauticalamity</b> is a puzzle game developed for Ludum Dare #29 - Beneath the Surface. Drag chains along tiles from highest to lowest value to destroy incoming tiles before they overflow the board. Primary programmer on team of three over the span of 72 hours.",
 	"gallery_images" : [
-		"images/nauticalamity_card_icon.png",
+		"images/nauticalamity_card_icon.png"
 	],
 	"tools" : "C#, Unity",
 	"links" : [
 		{
 			"icon": "images/unity_16x16.png",
 			"text": "Play in Browser",
-			"url":"https://dl.dropboxusercontent.com/u/38238241/seagame/web2/web2.html",
+			"url": "https://dl.dropboxusercontent.com/u/38238241/seagame/web2/web2.html",
 			"additional_classes" : "game-linkbutton-primary"
 		},
 		{
 			"icon": "images/GooglePlay_16x16.png",
 			"text": "Google Play",
-			"url":"https://play.google.com/store/apps/details?id=com.QutieGames.Nauticalamity",
+			"url": "https://play.google.com/store/apps/details?id=com.QutieGames.Nauticalamity",
 			"additional_classes" : "game-linkbutton-primary"
 		},
 		{
 			"text": "Ludum Dare Page",
-			"url":"http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=29173"
+			"url": "http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=29173"
 		}
 		
-	],
-	"description" : "<b>Nauticalamity</b> is a puzzle game developed for Ludum Dare #29 - Beneath the Surface."
-}
+	]
+};
 
 gameinfo_devengeance = {
 	"title" : "Devengeance",
 	"icon" : "images/devengeance_card_icon.png",
-	"card_description" : "<b>Devengeance</b> is a hack-and-slash action game developed for Mini Ludum Dare #50 - Demakes based on <b>Metal Gear Rising: Revengeance</b>. Utilize a wide array of skills and combination attacks to survive respawning waves of increasingly aggressive enemies for as long as possible.",
+	"card_description" : "<b>Devengeance</b> is a hack-and-slash action game developed for Mini Ludum Dare #50 - Demakes based on <b>Metal Gear Rising: Revengeance</b>. Utilize a wide array of skills and combination attacks to survive respawning waves of increasingly aggressive enemies for as long as possible. Sole programmer on two-man team over a span of 72 hours.",
 	"gallery_images" : [
-		"images/devengeance_card_icon.png",
+		"images/devengeance_card_icon.png"
 	],
 	"tools" : "Lua, Love2d",
 	"links" : [
 		{
 			"icon": "images/windows_16x16.png",
 			"text": "Windows Standalone",
-			"url":"https://www.dropbox.com/s/kv610gz254j7a89/Devengeance.rar",
+			"url": "https://www.dropbox.com/s/kv610gz254j7a89/Devengeance.rar",
 			"additional_classes": "game-linkbutton-primary"
 		},
 		{
 			"icon": "images/love2d_16x16.png",
 			"text": ".love Package",
-			"url":"https://www.dropbox.com/s/k971fwreaag8g2a/Devengeance.love",
+			"url": "https://www.dropbox.com/s/k971fwreaag8g2a/Devengeance.love",
 			"additional_classes": "game-linkbutton-primary"
 		},
 		{
 			"text": "Ludum Dare Page",
-			"url":"http://www.ludumdare.com/compo/minild-50/?action=preview&uid=33887"
+			"url": "http://www.ludumdare.com/compo/minild-50/?action=preview&uid=33887"
 		}
-	],
-	"description" : "<b>Devengeance</b> is a hack-and-slash action game developed for Mini Ludum Dare #50 - Demakes."
-}
+	]
+};
 
 gameinfo_ninjarun = {
 	"title" : "Ninja Run Demo",
 	"icon" : "images/ninjarun_card_icon.jpg",
 	"card_description" : "Ninja run like Raiden in <b>Metal Gear Rising: Revengeance</b>. Hold shift or right trigger while moving to automatically climb up short walls, jump over obstacles, and make perfect jumps from platform to platform.",
 	"gallery_images" : [
-		"images/ninjarun_card_icon.jpg",
+		"images/ninjarun_card_icon.jpg"
 	],
 	"tools" : "C#, Unity",
 	"links" : [
 		{
 			"icon": "images/unity_16x16.png",
 			"text": "Play in Browser",
-			"url":"games/Ninja/web.html",
+			"url": "games/Ninja/web.html",
 			"additional_classes" : "game-linkbutton-primary"
 		}
-	],
-	"description" : "Ninja run like Raiden in <b>Metal Gear Rising: Revengeance</b>. Hold shift or right trigger while moving to automatically climb up short walls, jump over obstacles, and make perfect jumps from platform to platform."
-}
+	]
+};
 
 gameinfo_bc3d = {
 	"title" : "Swing Hook Demo",
 	"icon" : "images/bc3d_card_icon.jpg",
 	"card_description" : "Easy swinging, based on <b>Bionic Commando</b> (2009). Hold down the left mouse button, and when your crosshair hovers over a close surface your character will automatically attach with a grappling hook. Press space to reel in, and then press space again once reeled in to climb onto the platform overhead. Press R to restart.",
 	"gallery_images" : [
-		"images/bc3d_card_icon.jpg",
+		"images/bc3d_card_icon.jpg"
 	],
 	"tools" : "C#, Unity",
 	"links" : [
 		{
 			"icon": "images/unity_16x16.png",
 			"text": "Play in Browser",
-			"url":"games/bc3d/web.html",
+			"url": "games/bc3d/web.html",
 			"additional_classes" : "game-linkbutton-primary"
 		}
-	],
-	"description" : "Easy swinging, based on <b>Bionic Commando</b> (2009). Hold down the left mouse button, and when your crosshair hovers over a close surface your character will automatically attach with a grappling hook. Press space to reel in, and then press space again once reeled in to climb onto the platform overhead. Press R to restart."
-}
+	]
+};
 
 
 
