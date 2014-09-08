@@ -71,7 +71,7 @@ gameinfo_nauticalamity = {
 		{
 			"icon": "images/GooglePlay_16x16.png",
 			"text": "Google Play",
-			"url": "https://play.google.com/store/apps/details?id=com.QutieGames.Nauticalamity",
+			"url": "https://play.google.com/store/apps/details?id=com.QutieGames.NauticalamityPlus",
 			"additional_classes" : "game-linkbutton-primary"
 		},
 		{
